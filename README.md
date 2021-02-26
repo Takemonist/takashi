@@ -1,0 +1,2 @@
+# takashi
+n人のたかしbot
